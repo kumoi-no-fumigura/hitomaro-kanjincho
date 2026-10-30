@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/hitomaro-kanjincho",
  "yomi": "かきのもとぞうさいしきかんじんじょう",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "勧進状",
+  "era": "文明8年（1476）4月",
+  "author": "慶範",
+  "desc": "大和国添上郡の柿本寺の人麿堂を修造し、人麿の木像に彩色し直すため、広く寄進を募った勧進状。人麿の事跡を古今集の序や拾遺集を引いて述べる。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -59,6 +64,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
